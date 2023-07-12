@@ -1,0 +1,110 @@
+*{
+    padding:0px;
+    margin:2px;
+    box-sizing: border-box;
+}
+
+.main{
+    background-color:gainsboro;
+ 
+}
+.header{
+    display:flex;
+}
+.logo img{
+    height:120px;
+}
+.writing{
+    margin-top:38px;
+
+}
+.nav{
+    background-color:rgba(0, 0,0);
+    opacity: 0.7;
+    height:22px;
+    border-radius: 5px;
+}
+.nav button{
+    background-color: black;
+    color:rgba(255,255,255);
+    font-weight: bolder;
+    text-align: center;
+    border:0px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.signup{
+    background-color: rgb(211,211,211,0.8);
+    display:flex;
+    padding-left: 2px;
+    border-radius: 6px;
+    box-shadow:0.2px 0.5px;
+    
+}
+.icon
+{
+    padding-top:4px;
+}
+.mainbody{
+    border:1px solid grey;
+    background-color: white;
+    padding:2px;
+}
+.head1{
+    border: 1px solid rgb(43, 183, 226);
+    margin-top: 10px;
+    margin-left: 10px;
+    padding-bottom: 5px;
+    border-radius: 6px;
+}
+.head2{
+    padding-left:10px;
+    color: white;
+    background-color:rgba(38, 162, 239, 0.8);
+    border:1px solid grey;
+    border-radius: 6px;
+    display: flex;
+    justify-content:space-between;
+}
+.head2 .iconbar{
+    padding-right:5px;
+}
+.head2 .iconbar button{
+    color:rgba(38, 162, 239, 0.8);
+    font-weight: bolder;
+    width: 15px;
+    height:20px;
+}
+.instructions1{
+    color:red;
+    margin-top:20px;
+    margin-left: 10px;
+    margin-bottom: 25px;
+}
+.instructions2{
+    color:blue;
+    margin-bottom: 12px;
+    margin-left: 10px;
+}
+.name{
+    display:flex;
+    justify-content: space-between;
+}
+.contact{
+    display:flex;
+}
+.contact .number{
+    margin-left:139px;
+}
+.extras{
+    display:flex;
+}
+form button{
+    display:flex;
+    text-align: center;
+    margin-left:5px;
+    cursor: pointer;
+}
+.option2{
+    margin-left:139px;
+}
