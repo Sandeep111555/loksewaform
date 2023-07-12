@@ -94,7 +94,7 @@
     display:flex;
 }
 .contact .number{
-    margin-left:139px;
+    margin-left:130px;
 }
 .extras{
     display:flex;
@@ -106,5 +106,5 @@ form button{
     cursor: pointer;
 }
 .option2{
-    margin-left:139px;
+    margin-left:129px;
 }
